@@ -1,0 +1,5 @@
+*****Ejercicio 3*****
+Crear un programa con dos hilos que deben imprimir una secuencia de números de manera alternada. El hilo 1
+
+Para casa
+
