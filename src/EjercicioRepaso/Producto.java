@@ -1,6 +1,8 @@
 package EjercicioRepaso;
 
-public class Producto {
+import java.io.Serializable;
+
+public class Producto implements Serializable {
     String cod;
     String nombre;
     int cantidad;

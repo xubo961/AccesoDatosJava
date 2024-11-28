@@ -12,7 +12,7 @@ public class Ejercicio3HiloMain {
                 while (true) {
                     numeros.numImpar(valor);
                     valor++;
-                    Thread.sleep(1000);
+                    Thread.sleep    (1000);
                 }
             }
             catch (InterruptedException e) {
